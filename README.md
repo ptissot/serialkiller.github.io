@@ -1,4 +1,3 @@
-# serialkiller.github.io
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +21,7 @@
   </style>
 </head>
 <body>
-  <h1>Please confirm you're not a serial killer</h1>
+  <h1>Please confirm you're not a serial killer, Isabelle</h1>
   <button onclick="respond('not')">I'm not 🙄</button>
   <button onclick="respond('sorry')">Sorry 🤷🏻‍♀️</button>
   <div id="response"></div>
